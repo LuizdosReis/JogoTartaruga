@@ -39,7 +39,7 @@ public class Point {
 	}
 
 	public Point mult(int scale) {
-		//todo
+		// TODO Auto-generated constructor stub
 		return null;
 	}
 	
