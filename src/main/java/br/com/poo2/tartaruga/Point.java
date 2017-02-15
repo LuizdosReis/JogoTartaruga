@@ -39,7 +39,8 @@ public class Point {
 	}
 
 	public Point mult(int scale) {
-		return new Point(this.y * scale, this.x * scale);
+		//todo
+		return null;
 	}
 	
 	public void print(){
