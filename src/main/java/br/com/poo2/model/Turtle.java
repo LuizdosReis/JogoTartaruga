@@ -1,4 +1,4 @@
-package br.com.poo2.tartaruga;
+package br.com.poo2.model;
 
 public class Turtle {
 	private Point position;
