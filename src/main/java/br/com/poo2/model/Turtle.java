@@ -3,10 +3,10 @@ package br.com.poo2.model;
 public class Turtle {
 	private Point position;
 	private Point direction;
-	private boolean pen;
+	private boolean pen = false;
 
 	public Turtle(Point initialPosition) {
-		this.position = new Point(8, 11);
+		this.position = initialPosition;
 		this.direction = this.position.sum(new Point(0, 1));
 	}
 
