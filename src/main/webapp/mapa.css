@@ -1,0 +1,35 @@
+.limpo{
+	width: 2rem;
+	height: 2rem;
+	background-color: white;
+	border: 0.5rem solid black;
+	float: left;
+	margin: 0.5rem;
+	}
+
+.passou{
+	width:2rem;
+ 	height:2rem;
+ 	background-color: black;
+ 	border: 0.5rem solid black;
+ 	float: left;
+ 	margin: 0.5rem;
+ }
+
+.olhando{
+ 	width: 2rem;
+ 	height: 2rem;
+ 	background-color: yellow;
+ 	border: 0.5rem solid black;
+ 	float: left;
+ 	margin: 0.5rem;
+ }
+
+ .turtle{
+ 	width:2rem;
+ 	height:2rem;
+ 	background-color: green;
+ 	border: 0.5rem solid black;
+ 	float: left;
+ 	margin: 0.5rem;
+ }
