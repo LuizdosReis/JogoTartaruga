@@ -57,4 +57,8 @@ public class TurtleBoardControl {
 	public Board getBoard() {
 		return board;
 	}
+	
+	public int getTAMANHO() {
+		return TAMANHO;
+	}
 }
