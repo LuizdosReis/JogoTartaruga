@@ -35,6 +35,11 @@
 			<artifactId>jstl</artifactId>
 			<version>1.2</version>
 		</dependency>
+		<dependency>
+			<groupId>org.eclipse.jetty</groupId>
+			<artifactId>jetty-servlet</artifactId>
+			<version>9.4.1.v20170120</version>
+		</dependency>
 
 	</dependencies>
 	<build>

@@ -1,0 +1,1 @@
+Web: java $ JAVA_OPTS -jar target/dependency/jetty-server-9.4.1.v20170120.jar --port $ PORT target / *. War
